@@ -1,0 +1,67 @@
+# 📚 PROJETO 05 — ESTUDA+ ESCOLA
+
+## Plataforma Web de Organização de Estudos e Atividades
+
+> **Projeto Final — Curso Técnico em Informática | Ensino Médio Técnico**
+
+---
+
+# 1. 📚 APRESENTAÇÃO
+
+O **Estuda+ Escola** é uma proposta de aplicação web criada para auxiliar estudantes na organização de suas atividades escolares, trabalhos, avaliações e rotina de estudos.
+
+A ideia é desenvolver uma plataforma simples, funcional e adequada à realidade de uma escola, permitindo que o aluno registre suas atividades e acompanhe o que precisa ser realizado.
+
+O projeto integra conhecimentos de:
+
+- 🌐 Redes de Computadores;
+- 💻 Programação;
+- 🖥️ Desenvolvimento Web;
+- 🗄️ Banco de Dados;
+- 📊 Organização de Informações;
+- 🔐 Segurança da Informação.
+
+> **O projeto foi planejado para alunos do Ensino Médio Técnico em Informática e pode ser desenvolvido de forma gradual, começando por uma versão básica e acrescentando novas funcionalidades.**
+
+---
+
+# 2. 🎯 OBJETIVO GERAL
+
+Desenvolver uma aplicação web que permita aos estudantes organizar suas atividades escolares, acompanhar prazos e consultar seu histórico de tarefas.
+
+---
+
+# 3. 🎯 OBJETIVOS ESPECÍFICOS
+
+A equipe deverá:
+
+- desenvolver uma aplicação web;
+- criar cadastro de usuários;
+- implementar login;
+- cadastrar disciplinas;
+- cadastrar atividades;
+- definir datas de entrega;
+- definir prioridades;
+- controlar o status das atividades;
+- permitir consultas;
+- permitir filtros;
+- armazenar informações no banco de dados;
+- aplicar conceitos de programação;
+- utilizar conceitos de redes;
+- realizar testes;
+- documentar o projeto;
+- organizar o projeto no GitHub.
+
+---
+
+# 4. 💡 SITUAÇÃO-PROBLEMA
+
+Durante o ano letivo, um estudante pode possuir várias atividades:
+
+```text
+Matemática
+Português
+Redes
+Programação
+Banco de Dados
+Inglês
