@@ -7,7 +7,7 @@
 
 ---
 
-## 📚 Sobre o repositório
+## 📚 Sobre o Projeto
 
 Este repositório reúne propostas e orientações para o desenvolvimento dos **Projetos Finais do Curso Técnico em Informática**.
 
